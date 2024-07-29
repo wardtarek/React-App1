@@ -1,0 +1,9 @@
+input::placeholder{
+  color: #292125ba;
+}
+input{
+  border-color: #29212522;
+}
+label{
+  color: var(--primary-color);
+}
